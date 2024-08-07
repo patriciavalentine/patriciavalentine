@@ -1,10 +1,10 @@
-# 👋 Hi, I’m **Patricia Valentine.**
+### 👋 Hi, I’m **Patricia Valentine.**
 
-## A passionate Data Analyst from Kenya.
+##### A passionate Data Analyst from Kenya.
 
 - *Currently, I’m looking for Junior Data Analysis roles to hone my skills.*
 
-- *📬 You can reach me through:*
+- *📧 You can reach me through:*
 *patriciavalentinedanga@gmail.com*
 
 <h3 align="left">Languages and Tools:</h3>
