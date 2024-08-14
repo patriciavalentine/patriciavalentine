@@ -22,12 +22,20 @@ On my GitHub, you’ll find a diverse range of projects that showcase my enthusi
 - Completed IBM Data Analyst Professional Certificate, Coursera.
 - Completed Google Data Analytics Professional Certificate, Coursera.
 
+## 💻 Projects
+1. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS)
+
+Utilized Microsoft SQL Server & PowerBI to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
+
+2. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS)
+
+Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset. It aimed to provide insights into the sales performance of the supermarket's major three branches.
+
 ## 📧 Let's Connect
 You can reach me through my email: patriciavalentinedanga@gmail.com
 
-OR we can connect on [LinkedIn](LinkedIn.com/in/patricia-valentine-danga/)
+OR we can connect on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/)
 
-👩‍💻 **Currently, I’m looking for Junior Data Analysis roles to hone my skills.**
 
 <!---
 patriciavalentine/patriciavalentine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
