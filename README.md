@@ -31,11 +31,17 @@ Utilized Microsoft SQL Server & PowerBI to clean, analyze and visualize a Health
 
 Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset. It aimed to provide insights into the sales performance of the supermarket's major three branches.
 
+3. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS)
+
+Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by Tableau for visualization and creating a dashboard.
+
 ## 📧 Let's Connect
-You can reach me through my email: patriciavalentinedanga@gmail.com
+Currently, I’m seeking Data Analytics roles to advance my career, so please feel free to contact me via [email](patriciavalentinedanga@gmail.com) or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
 
-OR we can connect on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/)
+I also encourage you to explore my repositories and projects on this GitHub profile.
+And should you have any questions or opportunities for collaboration, don’t hesitate to reach out.
 
+### Thank you 🥰 !
 
 <!---
 patriciavalentine/patriciavalentine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
