@@ -20,7 +20,6 @@ On my GitHub, you’ll find a diverse range of projects that showcase my enthusi
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
 - Completed IBM Data Analyst Professional Certificate, Coursera.
-- Completed Google Data Analytics Professional Certificate, Coursera.
 
 ## 💻 Projects
 1. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS)
