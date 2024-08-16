@@ -38,7 +38,7 @@ Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride 
 Currently, I’m seeking Data Analytics roles to advance my career, so please feel free to contact me via [email](patriciavalentinedanga@gmail.com) or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
 
 I also encourage you to explore my repositories and projects on this GitHub profile.
-And should you have any questions or opportunities for collaboration, don’t hesitate to reach out.
+Should you have any questions or opportunities for collaboration, don’t hesitate to reach out.
 
 ### Thank you 🥰 !
 
