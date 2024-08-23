@@ -39,7 +39,6 @@ Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride 
 
 ## 📧 Let's Connect
 I encourage you to explore my repositories and projects on this GitHub.
-
 Should you have any questions or opportunities for collaboration, don’t hesitate to reach out via [email](patriciavalentinedanga@gmail.com) or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
 
 
