@@ -5,7 +5,7 @@ I’m a Data Analyst with a passion for discovering the stories hidden in data.
 My journey started with a love for tackling complex problems and a curiosity about how data influences the world.
 Over time, this has evolved into an exciting career where I turn raw data into actionable insights that power smart decisions.
 
-On my GitHub, you’ll find a diverse range of projects that showcase my enthusiasm for continuous learning; each project reflects my dedication to transforming data into strategies that make a real impact.
+On my GitHub, you’ll find diverse projects that reflect my dedication to transforming data into strategies that make a real impact.
 
 ## 🛠️ Technical Skills
 - **Languages:** SQL, Python, R
