@@ -31,7 +31,7 @@ Utilized Microsoft SQL Server & PowerBI to clean, analyze and visualize a Health
 
 2. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS)
 
-Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset. It aimed to provide insights into the sales performance of the supermarket's major three branches.
+Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
 
 3. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS)
 
