@@ -25,17 +25,19 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - Completed UC Davis Fundamentals of Visualization with Tableau - Coursera.
 
 ## 💻 Projects
-1. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS)
+1. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS)
+
+Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by Tableau for visualization and creating a dashboard.
+
+2. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS)
 
 Utilized Microsoft SQL Server & PowerBI to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
 
-2. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS)
+3. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS)
 
 Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
 
-3. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS)
 
-Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by Tableau for visualization and creating a dashboard.
 
 ## 📧 Let's Connect
 I encourage you to explore my repositories and projects on this GitHub.
