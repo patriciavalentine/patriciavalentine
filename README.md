@@ -29,7 +29,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 
 3. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS) - Utilized **Microsoft Excel** to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
 
-
+*...and several **others** as shown in my repositories!*
 
 ## 📧 Let's Connect
 I encourage you to explore my repositories and projects on this GitHub.
