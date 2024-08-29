@@ -14,8 +14,6 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Manipulation:** Pandas, NumPy, Tidyverse, SQL, Excel (including Pivot Tables)
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
 - **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, R and Python’s SciPy library.
-- **Predictive Analytics:** Scikit-learn.
-- **Data Exploration:** EDA (Exploratory Data Analysis), Hypothesis testing.
 
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
@@ -27,15 +25,15 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 ## 💻 Projects
 1. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS)
 
-Utilized MySQL for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by Tableau for visualization and creating a dashboard that helped to organize the data insights into a single interface.
+Utilized **MySQL** for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by **Tableau** for visualization and creating a dashboard that helped to organize the data insights into a single interface.
 
 2. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS)
 
-Utilized Microsoft SQL Server & PowerBI to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
+Utilized **Microsoft SQL Server** & **PowerBI** to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
 
 3. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS)
 
-Utilized Microsoft Excel to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
+Utilized **Microsoft Excel** to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
 
 
 
