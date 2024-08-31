@@ -1,9 +1,9 @@
-## Hello, I'm Patricia! 👋
-Welcome to my GitHub profile.
+# Hello, I'm Patricia! 👋
+#### Welcome to my GitHub profile.
 
 I’m a Data Analyst with a passion for discovering the stories hidden in data.
-My journey started with a love for tackling complex problems and a curiosity about how data influences the world.
-Over time, this has evolved into an exciting career where I turn raw data into actionable insights that power smart decisions.
+My journey started with a *love for tackling complex problems* and a curiosity about how data influences the world.
+Over time, this has evolved into an exciting career where *I turn raw data into actionable insights that power smart decisions*.
 
 On my GitHub, you’ll find diverse projects that showcase my skill set.
 
@@ -13,7 +13,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel Charts, Dashboards
 - **Data Manipulation:** Pandas, NumPy, Tidyverse, SQL, Excel (including Pivot Tables)
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
-- **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference and Python’s SciPy library.
+- **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, and Python’s SciPy library.
 
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
@@ -23,11 +23,13 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - Completed UC Davis Fundamentals of Visualization with Tableau - Coursera.
 
 ## 💻 Projects
-1. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS) - Utilized **MySQL** for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by **Tableau** for visualization and creating a dashboard that helped to organize the data insights into a single interface.
+1. [Phone Sales Data Analysis](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS) - Utilized **Python** and **Jupyter Notebooks** with libraries such as *Pandas*, *Numpy*, *Matplotlib*, and *Seaborn* to clean, analyze, and visualize a Phone Sales Dataset, thereby identifying consumer preferences, pricing trends, and market dynamics while uncovering key insights into brand performance and customer satisfaction.
 
-2. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS) - Utilized **Microsoft SQL Server** & **PowerBI** to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
+2. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS) - Utilized **MySQL** for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by **Tableau** for visualization and creating a dashboard that helped to organize the data insights into a single interface.
 
-3. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS) - Utilized **Microsoft Excel** to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
+3. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS) - Utilized **Microsoft SQL Server** & **PowerBI** to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
+
+4. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS) - Utilized **Microsoft Excel** to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
 
 *...and several **others** as shown in my repositories!*
 
