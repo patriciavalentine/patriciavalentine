@@ -1,5 +1,5 @@
 # Hello, I'm Patricia! 👋
-#### Welcome to my GitHub profile.
+### Welcome to my GitHub profile.
 
 I’m a Data Analyst with a passion for discovering the stories hidden in data.
 My journey started with a *love for tackling complex problems* and a curiosity about how data influences the world.
@@ -23,13 +23,13 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - Completed UC Davis Fundamentals of Visualization with Tableau - Coursera.
 
 ## 💻 Projects
-1. [Phone Sales Data Analysis](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS) - Utilized **Python** and **Jupyter Notebooks** with libraries such as *Pandas*, *Numpy*, *Matplotlib*, and *Seaborn* to clean, analyze, and visualize a Phone Sales Dataset, thereby identifying consumer preferences, pricing trends, and market dynamics while uncovering key insights into brand performance and customer satisfaction.
+1. [Phone Sales Data Analysis](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS) - Utilized **Python** and **Jupyter Notebooks** with libraries such as **Pandas**, **Numpy**, **Matplotlib**, and **Seaborn** to clean, analyze, and visualize a Phone Sales Dataset, thereby identifying consumer preferences, pricing trends, and market dynamics while uncovering key insights into brand performance and customer satisfaction.
 
-2. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS) - Utilized **MySQL** for data cleaning, formatting, and basic analysis of a Bolt Ride operations data; followed by **Tableau** for visualization and creating a dashboard that helped to organize the data insights into a single interface.
+2. [Bolt Ride Analytics](https://github.com/patriciavalentine/BOLT-RIDE-ANALYTICS) - Utilized **MySQL** for data cleaning, formatting, and analysis of Bolt Ride operations, alongside **Tableau** for visualization and dashboard creation, enabling the identification of peak ride times, popular pickup locations, and revenue trends to enhance decision-making and operational efficiency.
 
-3. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS) - Utilized **Microsoft SQL Server** & **PowerBI** to clean, analyze and visualize a Healthcare Dataset, hence identifying trends and gaining a deeper understanding of the healthcare performance.
+3. [Healthcare Performance Analysis](https://github.com/patriciavalentine/HEALTHCARE-PERFORMANCE-ANALYSIS) - Utilized **Microsoft SQL Server** and **Power BI** for data cleaning, analysis, and visualization of a Healthcare Dataset, enabling the identification of key trends and providing deeper insights into healthcare performance and operational effectiveness.
 
-4. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS) - Utilized **Microsoft Excel** to clean, perform exploratory data analysis, create pivot tables and charts, and then bring together an interactive dashboard of a supermarket sales dataset; hence providing insights into the sales performance of the supermarket's major three branches.
+4. [Supermarket Sales Analysis](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS) - Utilized **Microsoft Excel** to clean, conduct exploratory data analysis, create pivot tables and charts, and develop an interactive dashboard for a Supermarket Sales Dataset, thereby delivering insights into the sales performance of the supermarket's three major branches.
 
 *...and several **others** as shown in my repositories!*
 
@@ -41,7 +41,7 @@ Should you have any questions or opportunities for collaboration, don’t hesita
 *Ps: Currently, I’m seeking Data Analytics roles to advance my career, so please feel free to contact me for any opportunities.*
 
 
-### Thank you 🥰 !
+### Thank you!
 
 <!---
 patriciavalentine/patriciavalentine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
