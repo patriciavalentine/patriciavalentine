@@ -35,9 +35,8 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 *...and several others as shown in my [repositories](https://github.com/patriciavalentine?tab=repositories)!*
 
 ## 📧 Let's Connect
-I encourage you to explore my repositories and projects on this GitHub.
+I encourage you to explore my repositories on this GitHub.
 Should you have any questions or opportunities for collaboration, don’t hesitate to reach out via [email](patriciavalentinedanga@gmail.com) or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
-
 
 *Ps: Currently, I’m seeking Data Analytics roles to advance my career, so please feel free to contact me for any opportunities.*
 
