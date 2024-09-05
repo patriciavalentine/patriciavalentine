@@ -2,14 +2,14 @@
 ### Welcome to my GitHub profile.
 
 I’m a Data Analyst with a passion for discovering the stories hidden in data.
-My journey started with a *love for tackling complex Math problems* and a curiosity about how data influences the world.
+My journey started with a *love for tackling complex Math problems*, and a curiosity about how data influences the world.
 Over time, this has evolved into an exciting career where *I turn raw data into actionable insights that power smart decisions*.
 
 On my GitHub, you’ll find diverse projects that showcase my skill set.
 
 ## 🛠️ Technical Skills
 - **Languages:** SQL, Python, R
-- **Tools:** Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio
+- **Tools:** Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Microsoft Powerpoint
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel Charts, Dashboards
 - **Data Manipulation:** Pandas, NumPy, Tidyverse, SQL, Excel (including Pivot Tables)
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
