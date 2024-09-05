@@ -21,6 +21,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - Completed Google Data Analysis with R Programming Certificate, Coursera.
 - Completed Microsoft Data Analysis and Visualization with Power BI Certificate, Coursera.
 - Completed UC Davis Fundamentals of Visualization with Tableau - Coursera.
+- Currently enrolled in Google Cloud Data Analytics Professional Certificate.
 
 ## 💻 Projects
 1. [Phone Sales Data Analysis](https://github.com/patriciavalentine/PHONE-SALES-DATA-ANALYSIS) - Utilized **Python** and **Jupyter Notebooks** with libraries such as **Pandas**, **Numpy**, **Matplotlib**, and **Seaborn** to clean, analyze, and visualize a Phone Sales Dataset, thereby identifying consumer preferences, pricing trends, and market dynamics while uncovering key insights into brand performance and customer satisfaction.
