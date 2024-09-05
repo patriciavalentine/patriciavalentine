@@ -17,10 +17,10 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
-- Completed IBM Data Analyst Professional Certificate, Coursera.
-- Completed Google Data Analysis with R Programming Certificate, Coursera.
-- Completed Microsoft Data Analysis and Visualization with Power BI Certificate, Coursera.
-- Completed UC Davis Fundamentals of Visualization with Tableau - Coursera.
+- IBM Data Analyst Professional Certificate, Coursera.
+- Google Data Analysis with R Programming Certificate, Coursera.
+- Microsoft Data Analysis and Visualization with Power BI Certificate, Coursera.
+- UC Davis Fundamentals of Visualization with Tableau - Coursera.
 - Currently enrolled in Google Cloud Data Analytics Professional Certificate.
 
 ## 💻 Projects
