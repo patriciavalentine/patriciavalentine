@@ -36,11 +36,9 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 
 ## 📧 Let's Connect
 I encourage you to explore my projects further on my [Portfolio Website](https://valepatricia16.wixsite.com/patricia-valentine).
-
 Should you have any questions or opportunities for collaboration, don’t hesitate to reach out via [email](patriciavalentinedanga@gmail.com) or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
 
 *Ps: Currently, I’m seeking Data Analytics roles to advance my career, so please feel free to contact me for any opportunities.*
-
 
 ### Thank you!
 
