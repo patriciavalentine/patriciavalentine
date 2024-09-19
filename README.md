@@ -15,9 +15,6 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
 - **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, *etc*
 
-Statistical Analysis:
-Hypothesis testing, Regression analysis, Statistical inference, Python’s SciPy library, Google Sheets Functions
-
 
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
