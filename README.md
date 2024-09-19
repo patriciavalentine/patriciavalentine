@@ -9,7 +9,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 
 ## 🛠️ Technical Skills
 - **Languages:** Structured Query Language(SQL), Python, R
-- **Tools:** Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Google Cloud Platform(GCP), Microsoft Office Suite.
+- **Tools:** Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Google Cloud Platform(GCP), Microsoft Office
 - **Data Visualization:** Tableau, Power BI, Looker, Matplotlib, Seaborn, Excel Charts, Dashboards
 - **Data Manipulation:** Pandas, NumPy, Tidyverse, SQL, Google BigQuery, Advanced Spreadsheet Functions
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
