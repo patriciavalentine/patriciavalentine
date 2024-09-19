@@ -15,9 +15,6 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
 - **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, and Python’s SciPy library.
 
-Languages:
-SQL, Python, R
-
 Tools:
 Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Powerpoint, Google Sheets, Google Data Studio (Looker Studio), Google BigQuery, Google Cloud Dataflow
 
