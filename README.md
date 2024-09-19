@@ -15,6 +15,25 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
 - **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, and Python’s SciPy library.
 
+Languages:
+SQL, Python, R
+
+Tools:
+Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Powerpoint, Google Sheets, Google Data Studio (Looker Studio), Google BigQuery, Google Cloud Dataflow
+
+Data Visualization:
+Tableau, Power BI, Matplotlib, Seaborn, Excel Charts, Dashboards, Google Data Studio (Looker Studio)
+
+Data Manipulation:
+Pandas, NumPy, Tidyverse, SQL, Advanced Excel, Google BigQuery, Google Sheets
+
+Data Cleaning:
+Handling missing data, Outlier detection, Data normalization, Data transformation, Google Cloud Dataflow
+
+Statistical Analysis:
+Hypothesis testing, Regression analysis, Statistical inference, Python’s SciPy library, Google Sheets Functions
+
+
 ## 📚 Education
 - Bachelor's degree in Applied Mathematics, Kenyatta University.
 - IBM Data Analyst Professional Certificate, Coursera.
