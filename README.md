@@ -13,10 +13,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 - **Data Visualization:** Tableau, Power BI, Looker, Matplotlib, Seaborn, Excel Charts, Dashboards
 - **Data Manipulation:** Pandas, NumPy, Tidyverse, SQL, Google BigQuery, Advanced Spreadsheet Functions
 - **Data Cleaning:** Handling missing data, Outlier detection, Data normalization, Data transformation.
-- **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, and Python’s SciPy library.
-
-Data Cleaning:
-Handling missing data, Outlier detection, Data normalization, Data transformation, Google Cloud Dataflow
+- **Statistical Analysis:** Hypothesis testing, Regression analysis, Statistical inference, *etc*
 
 Statistical Analysis:
 Hypothesis testing, Regression analysis, Statistical inference, Python’s SciPy library, Google Sheets Functions
