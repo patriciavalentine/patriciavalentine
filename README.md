@@ -1,7 +1,7 @@
 # Hello, I'm Patricia! 👋
 ### Welcome to my GitHub profile.
 
-I’m a Data Analystics professional with a passion for discovering the stories hidden in data.
+I’m a Data Analytics professional with a passion for discovering the stories hidden in data.
 My journey started with a *love for tackling complex Math problems*, and a curiosity about how data influences the world.
 Over time, this has evolved into an exciting career where *I turn raw data into actionable insights that power smart decisions*.
 
