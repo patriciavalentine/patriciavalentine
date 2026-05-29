@@ -36,7 +36,7 @@ On my GitHub, you’ll find diverse projects that showcase my skill set.
 *...and several others as shown in my [repositories](https://github.com/patriciavalentine?tab=repositories)!*
 
 ## 📧 Let's Connect
-I invite you to check out my [Portfolio Website](https://patriciavalentine.github.io). for more details on my work.
+I invite you to check out my [Portfolio Website](https://patriciavalentine.github.io) for more details on my work.
 
 If you have any questions or would like to discuss collaboration opportunities, feel free to reach out via email at *patriciavalentinedanga@gmail.com* or connect with me on [LinkedIn](https://LinkedIn.com/in/patricia-valentine-danga/).
 
